@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 HiI’m @AyoubRavash<br>- 👀 I’m interested in Back-End development<br>- 🌱 I’m currently learning Node.js<br>- 💞️ I’m working in Partacode company<br>- 📫 You can reach me with ayoubravash@gmail.com email address
+👋 HiI’m @AyoubRavash<br> 👀 I’m interested in Back-End development<br> 🌱 I’m currently learning Node.js<br> 💞️ I’m working in Partacode company<br> 📫 You can reach me with ayoubravash@gmail.com email address
 
 
 ## 🌐 Socials:
