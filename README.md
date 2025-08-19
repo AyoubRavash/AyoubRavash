@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Back-end and Front-end program<br>👯 I’m looking to collaborate on New Projects<br>🤝 I’m looking for help with MQL development<br>🌱 I’m currently learning Front-end<br>💬 Ask me about anything<br>⚡ Let's rock
+🔭 I’m currently working on a MESSENGER microservice Back-End<br>👯 I’m looking to collaborate on New Projects<br>🤝 I’m looking for help with MQL development<br>🌱 I’m currently learning data science<br>💬 Ask me about anything<br>⚡ Let's rock
 
 
 ## 🌐 Socials:
