@@ -40,9 +40,6 @@
   <a href="https://www.linkedin.com/in/ayoub-ravash-41752631a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="ayoubravash@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
   <a href="https://t.me/AyoubRavash" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
@@ -50,7 +47,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on my Front-End skills<br><br>🌱 I’m currently learning React.js and Next.js<br><br>👯 I’m looking to collaborate on Back-End projects<br><br>🤝 I’m looking for help with Full-Stack development<br><br>💬 Ask me about programming world</p>
+<p align="left">🔭 I’m currently working on my Front-End skills<br><br>🌱 I’m currently learning React.js and Next.js<br><br>👯 I’m looking to collaborate on Back-End projects<br><br>🤝 I’m looking for help with Full-Stack development<br><br>💬 Ask me about programming world<br><br>📫 How to reach me ayoubravash@gmail.com</p>
 
 ###
 
